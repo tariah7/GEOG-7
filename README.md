@@ -2,7 +2,7 @@
 A Test repo for Practice (Software design)
 
 ## Lectures
-All lecture files will be posted here!
+All lecture files will be posted here so stay vigillant!
 
 
 ## Labs
